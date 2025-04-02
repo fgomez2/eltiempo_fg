@@ -59,6 +59,6 @@ searchBtn.addEventListener('click', function() {
                 alert('City not found! Please try again.');
             });
     } else {
-        alert('Please enter a city name!');
+        alert('Introduce un nombre de ciudad!');
     }
 });
