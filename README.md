@@ -1,4 +1,4 @@
-# El Tiempo by Fer
+# El Tiempo by Fer 🌤️
 
 A weather forecast web application that allows users to check the current weather conditions in any city worldwide.
 ## Features
@@ -12,7 +12,7 @@ A weather forecast web application that allows users to check the current weathe
   - Humidity percentage
   - Weather icon visualization
 ## Technologies used
-- HTML5
+- HTML5 
 - CSS3 (with Flexbox and Grid)
 - JavaScript (ES6)
 - OpenWeatherMap API
